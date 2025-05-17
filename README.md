@@ -2,7 +2,7 @@
 Q&amp;A Chatbot with Ollama LLM models
 
 ## Streamlit Chatbot
-![output](https://github.com/naseemap47/Chatbot-QA/demo.gif)
+![output](https://github.com/naseemap47/Chatbot-QA/blob/master/demo.gif)
 
 
 ## Install the requrements
